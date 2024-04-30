@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    padding: 0px;
     background-color: #f2f2f2;
 }
 
@@ -16,7 +16,7 @@ nav {
     background-color: blue;
     color: red;
     text-align: center;
-    padding: 10px;
+    padding: 15px;
 }
 
 nav a {
@@ -24,15 +24,6 @@ nav a {
     text-decoration: none;
     padding: 0 15px;
 }
-
-.container {
-    max-width: 600px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
 
 img {
     display: block; 
@@ -44,6 +35,7 @@ img {
 
 
 nav a:hover {
+    color:black;
     text-decoration: underline;
 }
 
@@ -55,11 +47,11 @@ section {
 }
 
 footer {
+    border: solid black 1px;
     background-color: green;
     color:white;
     text-align: center;
     padding: 3px;
     position: fixed;
-    bottom: 0;
     width: 100%;
 }
