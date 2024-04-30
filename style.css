@@ -43,15 +43,16 @@ section {
     padding: 20px;
     margin: 10px;
     background-color: white;
+    color:white;
+    text-align: center;
     border-radius: 5px;
 }
 
 footer {
     border: solid black 1px;
     background-color: green;
-    color:white;
-    text-align: center;
     padding: 3px;
     position: fixed;
+    bottom: 0;
     width: 100%;
 }
