@@ -12,7 +12,7 @@ header {
     text-align: center;
 }
 
-.barrita {
+nav {
     background-color: blue;
     color: red;
     text-align: center;
@@ -26,13 +26,17 @@ nav a {
 }
 
 img {
-    display: block; 
     margin: 0 auto;
     width: 200px;
     height: 200px;
 }
 
-
+#Img-MT-2 {
+    display: block;
+    padding: 5px 5px 5px 5px;
+    width: 340px;
+    height: 300px;
+}
 
 nav a:hover {
     color:black;
