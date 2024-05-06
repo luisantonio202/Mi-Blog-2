@@ -25,13 +25,14 @@ nav a {
     padding: 0 15px;
 }
 
-img {
+#Img-MT {
     margin: 0 auto;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
 }
 
 #Img-MT-2 {
+    margin: 0 auto;
     display: block;
     padding: 5px 5px 5px 5px;
     width: 340px;
