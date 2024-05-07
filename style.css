@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+span {
+    color:blue;
+}
+
 nav {
     background-color: blue;
     color: red;
