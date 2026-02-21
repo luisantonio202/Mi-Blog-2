@@ -14,6 +14,13 @@ header {
     text-align: center;
 }
 
+h2 {
+    background-color: orange;
+    font-family:cursive;
+    padding: 10px;
+    margin: 10px;
+}
+
 span {
     color:blue;
 }
@@ -37,6 +44,10 @@ nav a {
     height: 250px;
 }
 
+#imagen-javascript{
+    width: 200px;
+    height: 180px;
+}
 
 nav a:hover {
     color:black;
